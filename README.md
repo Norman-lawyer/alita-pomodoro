@@ -25,8 +25,8 @@ A beautiful, minimalist Pomodoro timer app for macOS, built with SwiftUI.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Norman-lawyer/lolita-pomodoro.git
-cd lolita-pomodoro
+git clone https://github.com/Norman-lawyer/alita-pomodoro.git
+cd alita-pomodoro
 
 # Generate Xcode project
 ./setup.sh
@@ -39,7 +39,7 @@ open LolitaPomodoro.xcodeproj
 
 ### Download Pre-built App
 
-Download the latest release from [GitHub Releases](https://github.com/Norman-lawyer/lolita-pomodoro/releases)
+Download the latest release from [GitHub Releases](https://github.com/Norman-lawyer/alita-pomodoro/releases)
 
 ## Usage
 
