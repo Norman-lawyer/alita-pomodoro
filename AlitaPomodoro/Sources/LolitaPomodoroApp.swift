@@ -2,7 +2,7 @@ import SwiftUI
 import Combine
 
 @main
-struct LolitaPomodoroApp: App {
+struct AlitaPomodoroApp: App {
     @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
     
     var body: some Scene {

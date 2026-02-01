@@ -1,8 +1,8 @@
-# Lolita Pomodoro 🍅
+# Alita Pomodoro 🍅
 
 A beautiful, minimalist Pomodoro timer app for macOS, built with SwiftUI.
 
-![App Icon](LolitaPomodoro/Resources/AppIcon.icns)
+![App Icon](AlitaPomodoro/Resources/AppIcon.icns)
 
 ## Features
 
@@ -32,7 +32,7 @@ cd alita-pomodoro
 ./setup.sh
 
 # Open in Xcode
-open LolitaPomodoro.xcodeproj
+open AlitaPomodoro.xcodeproj
 
 # Build and run (⌘+R)
 ```
@@ -60,9 +60,9 @@ Download the latest release from [GitHub Releases](https://github.com/Norman-law
 
 ```
 pomodoro-mac/
-├── LolitaPomodoro/
+├── AlitaPomodoro/
 │   ├── Sources/
-│   │   ├── LolitaPomodoroApp.swift      # App entry point
+│   │   ├── AlitaPomodoroApp.swift      # App entry point
 │   │   ├── ContentView.swift            # Main UI
 │   │   ├── PomodoroTimer.swift          # Timer logic
 │   │   ├── SettingsView.swift           # Settings panel
@@ -72,7 +72,7 @@ pomodoro-mac/
 │   └── Resources/
 │       ├── AppIcon.icns                 # App icon
 │       └── Sounds/                      # Ambient sounds
-├── LolitaPomodoro.xcodeproj/            # Xcode project
+├── AlitaPomodoro.xcodeproj/            # Xcode project
 ├── setup.sh                             # Build script
 └── project.yml                          # XcodeGen config
 ```
@@ -85,6 +85,10 @@ pomodoro-mac/
 - **XcodeGen** - Project generation
 
 ## Author
+
+**Alita** - Your AI assistant companion
+
+Originally created by
 
 **Norman (牛炬钦)** - [Norman-lawyer](https://github.com/Norman-lawyer)
 
