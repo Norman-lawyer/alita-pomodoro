@@ -1,0 +1,50 @@
+# Created by .gitignore generator
+# https://www.toptal.com/developers/gitignore
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcodeproj/
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.xcworkspacedata
+build/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Testing
+coverage/
+
+# Optional: Ignore build outputs
+build/
+Release/
+Debug/
