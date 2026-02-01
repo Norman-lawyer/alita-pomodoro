@@ -2,7 +2,18 @@
 
 A beautiful, minimalist Pomodoro timer app for macOS, built with SwiftUI.
 
-![App Icon](AlitaPomodoro/Resources/AppIcon.icns)
+<div align="center">
+
+![Main Interface](screenshot_main.jpg)
+*Beautiful dark theme with coral red timer*
+
+![Timer](screenshot_timer.jpg)
+*Elegant countdown with progress ring*
+
+![Statistics](screenshot_stats.jpg)
+*Comprehensive focus tracking*
+
+</div>
 
 ## Features
 
